@@ -356,6 +356,7 @@
 "Assets/Scripts/CharacterRotation.cs"
 "Assets/Scripts/CharacterScaling.cs"
 "Assets/Scripts/HelloWorld.cs"
+"Assets/Scripts/PlayerFPSController.cs"
 "Assets/Scripts/PlayerTankController.cs"
 -langversion:9.0
 

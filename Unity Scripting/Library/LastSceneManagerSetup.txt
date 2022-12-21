@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Transform.unity
+- path: Assets/Scenes/Input & GetComponent.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
